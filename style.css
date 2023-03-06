@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+
+* {
+    font-family: 'Climate+Crisis', cursive !important;
+    
+}
+
+.logo{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  padding-bottom: 100px;
+  
+  
+}
+
+.header__text{
+  margin-left: 40%;
+}
